@@ -27,4 +27,4 @@ The focus is on developing a **Logistic Regression model** capable of handling *
 - Matplotlib, Seaborn (Visualization)  
 - Scikit-learn  
 ```bash
-git clone https://github.com/your-username/loan-prediction.git
+git clone https://github.com/Marwan252/Loan-Prediction-project.git
